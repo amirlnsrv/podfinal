@@ -1,0 +1,53 @@
+.bodier img{
+    position: absolute;
+    height: 30%;
+    width: 30%;
+
+}
+.bodier2{
+    position: absolute;
+    font-family: "Segoe Script";
+    margin-left: 45%;
+    
+}
+.header3 img{
+    position: absolute;
+    height: 30%;
+    width: 30%;
+    margin-left: 50%;
+    margin-top: 30%;
+
+}
+.header4{
+    position: absolute;
+    font-family: "Segoe Script";
+    margin-right: 60%;
+    margin-top: 20%;
+
+}
+.header5 img{
+    position: absolute;
+    height: 30%;
+    width: 30%;
+    margin-right: 0%;
+    margin-top: 60%;
+}
+.header6{
+    position: absolute;
+    font-family: "Segoe Script";
+    margin-left: 50%;
+    margin-top: 55%;
+}
+.header7{
+    position: absolute;
+    font-family: "Segoe Script";
+    border-top: 5px solid lightgrey;
+    margin-top: 80%;
+    margin-left: 35%;
+
+}
+.header8{
+    font-family: "Segoe Script";
+    margin-top: 85%;
+
+}
